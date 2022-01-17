@@ -1,0 +1,118 @@
+.b1 {
+    font-family: poppins;
+    font-size: 14px;
+    border: none;
+    background-color: #443472;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.b1:hover {
+    background-color: #e63946;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    border-radius: 20px;
+}
+
+.b2 {
+    font-family: poppins;
+    font-size: 14px;
+    border: none;
+    background-color: #443472;
+    border-radius: 20px;
+    text-align: center;
+    padding: 3px 10px;
+}
+
+.b2:hover {
+    background-color: #e63946;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    border-radius: 20px;
+}
+
+.b3 {
+    font-family: poppins;
+    font-size: 14px;
+    border: none;
+    background-color: #e63946;
+    border-radius: 20px;
+    text-align: center;
+    padding: 3px 10px;
+}
+
+.b3:hover {
+    background-color: #443472;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    border-radius: 20px;
+}
+
+.b4 {
+    font-family: poppins;
+    font-size: 14px;
+    border: none;
+    background-color: #e63946;
+    border-radius: 20px;
+    text-align: center;
+    padding: 3px 10px;
+}
+
+.b4:hover {
+    background-color: #443472;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    border-radius: 20px;
+}
+
+.b5 {
+    font-family: poppins;
+    font-size: 14px;
+    border: none;
+    background-color: #e63946;
+    border-radius: 20px;
+    text-align: center;
+    padding: 3px 10px;
+}
+
+.b5:hover {
+    background-color: #443472;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    border-radius: 20px;
+}
+
+.b6 {
+    font-family: poppins;
+    font-size: 14px;
+    border: none;
+    background-color: #e63946;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    padding: 5px 10px;
+}
+
+.b6:hover {
+    background-color: rgb(135, 202, 96);
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transform: scale(1.07);
+    transition-duration: 0.4s;
+    border-radius: 20px;
+}
+
+.ab6 {
+    color: white;
+    font-weight: bold;
+}
+
+.ab6:hover {
+    color: #443472;
+}

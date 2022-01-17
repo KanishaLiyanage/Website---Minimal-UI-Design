@@ -1,0 +1,74 @@
+body {
+    background-image:url("HomePage.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img1 {
+    position: absolute;
+    bottom: 3.5%;
+    right: 3%;
+    transition: 0.4s;
+}
+
+.img1:hover {
+    transform: scale(1.08);
+}
+
+.p1 {
+    font-family: poppins;
+    color: #e33e5a;
+}
+
+.p2 {
+    font-family: poppins;
+    color: #443472;
+}
+
+.button1 {
+    font-family: poppins;
+    font-size: 14px;
+    border: none;
+    background-color: #e63946;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.button1:hover {
+    background-color: #ffffff;
+    color: #353195;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transform: scale(1.05);
+    transition-duration: 0.4s;
+    border-radius: 20px;
+}
+
+.ab1 {
+    color: white;
+    font-weight: bold;
+}
+
+.ab1:hover {
+    color: #353195;
+    font-weight: bold;
+}
+
+.button2 {
+    font-family: poppins;
+    font-size: 14px;
+    border: none;
+    background-color: #e63946;
+    border-radius: 20px;
+    text-align: center;
+    padding: 7px 10px;
+}
+
+.button2:hover {
+    background-color: #353195;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transform: scale(1.08);
+    transition-duration: 0.4s;
+    border-radius: 20px;
+}

@@ -1,0 +1,99 @@
+.bgimage {
+    background-image:url("Welcome.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topleft {
+    font-family: poppins;
+    position: absolute;
+    top: 8px;
+    left: 1%;
+    font-size: 18px;
+}
+
+.topright1 {
+    font-family: poppins;
+    font-weight: 600;
+    color: #443472;
+    position: absolute;
+    top: 8px;
+    right: 7.5%;
+    font-size: 18px;
+}
+
+.topright2 {
+    font-family: poppins;
+    position: absolute;
+    top: 8px;
+    right: 1%;
+    font-size: 18px;
+}
+
+.card1 {
+    width: 20%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-image: url("Mobile.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 15%;
+    top:15%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card1:hover {
+    transform: scale(1.05);
+}
+
+.TextCard1 {
+    font-family: poppins;
+    font-weight: 600;
+    text-align: center;
+}
+
+.card2 {
+    width: 50%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 37%;
+    top:15%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card2:hover {
+    transform: scale(1.05);
+}
+
+.TextCard2 {
+    font-family: poppins;
+    font-weight: 600;
+    text-align: center;
+}
+
+.TextCard3 {
+    font-family: poppins;
+    font-weight: 600;
+    text-align: center;
+    line-height: 250%;
+}
+
+.TextCard4 {
+    font-family: poppins;
+    font-weight: 600;
+    text-align: center;
+    line-height: 250%;
+}
+

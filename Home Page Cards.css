@@ -1,0 +1,264 @@
+.card1 {
+    width: 20%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-image: url("Card1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 5%;
+    top:20%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card1:hover {
+    transform: scale(1.05);
+}
+
+.TextCard1 {
+    font-family: poppins;
+    color: #2e2a82;
+    font-weight: bolder;
+    text-align: center;
+    transition: 0.6s;
+}
+
+.TextCard1:hover {
+    transform: scale(1.05);
+}
+
+.card2 {
+    width: 20%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-image: url("Card2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 28%;
+    top:20%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card2:hover {
+    transform: scale(1.05);
+}
+
+.TextCard2 {
+    font-family: poppins;
+    color: #2e2a82;
+    font-weight: bolder;
+    text-align: center;
+    transition: 0.6s;
+}
+
+.TextCard2:hover {
+    transform: scale(1.05);
+}
+
+.card3 {
+    width: 20%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-image: url("Card3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 28%;
+    top:20%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card3:hover {
+    transform: scale(1.05);
+}
+
+.TextCard3 {
+    font-family: poppins;
+    color: #2e2a82;
+    font-weight: bolder;
+    text-align: center;
+    transition: 0.6s;
+}
+
+.TextCard3:hover {
+    transform: scale(1.05);
+}
+
+.card4 {
+    width: 20%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-image: url("Card4.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 5%;
+    top:20%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card4:hover {
+    transform: scale(1.05);
+}
+
+.TextCard4 {
+    font-family: poppins;
+    color: #2e2a82;
+    font-weight: bolder;
+    text-align: center;
+    transition: 0.6s;
+}
+
+.TextCard4:hover {
+    transform: scale(1.05);
+}
+
+.card5 {
+    width: 20%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-image: url("Card5.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 5%;
+    top:100%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card5:hover {
+    transform: scale(1.05);
+}
+
+.TextCard5 {
+    font-family: poppins;
+    color: #2e2a82;
+    font-weight: bolder;
+    text-align: center;
+    transition: 0.6s;
+}
+
+.TextCard5:hover {
+    transform: scale(1.05);
+}
+
+.card6 {
+    width: 20%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-image: url("Card6.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 28%;
+    top:100%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card6:hover {
+    transform: scale(1.05);
+}
+
+.TextCard6 {
+    font-family: poppins;
+    color: #2e2a82;
+    font-weight: bolder;
+    text-align: center;
+    transition: 0.6s;
+}
+
+.TextCard6:hover {
+    transform: scale(1.05);
+}
+
+.card7 {
+    width: 20%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-image: url("Card7.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 28%;
+    top:100%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card7:hover {
+    transform: scale(1.05);
+}
+
+.TextCard7 {
+    font-family: poppins;
+    color: #2e2a82;
+    font-weight: bolder;
+    text-align: center;
+    transition: 0.6s;
+}
+
+.TextCard7:hover {
+    transform: scale(1.05);
+}
+
+.card8 {
+    width: 20%;
+    height : 70%;
+    background-color: white;
+    opacity: 0.8;
+    background-image: url("Card8.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 5%;
+    top:100%;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: 0.6s;
+}
+
+.card8:hover {
+    transform: scale(1.05);
+}
+
+.TextCard8 {
+    font-family: poppins;
+    color: #2e2a82;
+    font-weight: bolder;
+    text-align: center;
+    transition: 0.6s;
+}
+
+.TextCard8:hover {
+    transform: scale(1.05);
+}
+
